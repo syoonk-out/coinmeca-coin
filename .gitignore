@@ -1,2 +1,11 @@
+# Folder
 node_modules
+build
+.openzeppelin
+cache
+artifacts
+dist
+.vscode
+
+# Files
 .env
